@@ -1,6 +1,6 @@
 # Diagram Editor
 
-![Diagram Editor Screen Shot](screen_captures\Screenshot 2023-10-09 052605.jpg)
+![screen_captures\Screenshot 2023-10-09 052605.jpg](https://github.com/rcrist/DiagramEditor/blob/master/screen_captures/Screenshot%202023-10-09%20052605.jpg)
 
 Python diagramming program written for educational purposes. The graphics library is CustomTkinter by 
 Tom Shimansky(https://customtkinter.tomschimansky.com/) which provides a modern user interface with light and 
